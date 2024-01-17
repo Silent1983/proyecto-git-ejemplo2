@@ -1,2 +1,5 @@
 este es un ejemplo v2
 añadiendo texto
+otro bug
+error
+chicharrin
